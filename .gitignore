@@ -1,0 +1,21 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Resharper settings
+*.DotSettings.user
+
+# Visual Studio Code settings
+.vscode/
+
+# Other files
+*.log
